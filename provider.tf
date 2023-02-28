@@ -1,4 +1,4 @@
 provider "google" {
-  project = "terraform-project-irina"
+  project = "var.project_id"
   region  = "us-central1"
 }
